@@ -1,6 +1,6 @@
 ### :computer: HASSAN AKAOU CLI CV 
 
-🔥🔥 Nouveau🔥🔥
+🔥🔥 Nouveau 🔥🔥
 
 Vous pouvez maintenant voir mon profil, me joindre directement et discuter avec ma conscience 🤯
 
