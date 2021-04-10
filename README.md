@@ -17,7 +17,7 @@ npm i -g hassan-akaou-cv
 ```
 
 
-### Usage 
+### :gem: Usage 
 
 ```shell
 hassan
