@@ -37,14 +37,3 @@ hassan
 | -V        | --version                   | Version                    |
 | -h        | --help                      | Help                       |
 
-### :gem: Packages utilisés 
-
-| Package      | Lien                                       |
-| ------------ | ------------------------------------------ |
-| chalk        | https://www.npmjs.com/package/chalk        |
-| commander    | https://www.npmjs.com/package/commander    |
-| inquier      | https://www.npmjs.com/package/inquirer     |
-| cfonts       | https://www.npmjs.com/package/cfonts       |
-| emojis       | https://www.npmjs.com/package/node-emoji   |
-| axios        | https://www.npmjs.com/package/axios        |
-| ora          | https://www.npmjs.com/package/ora          |
